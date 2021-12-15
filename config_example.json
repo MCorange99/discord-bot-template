@@ -1,7 +1,7 @@
 {
     "bot": {
         "token": "",
-        "prefix": "d."
+        "prefix": "!"
     },
     "inviteurl": "and other stuff"
 }
